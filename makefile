@@ -1,6 +1,7 @@
 PREFIX    :=/usr/local
 export GOPATH := $(shell pwd)
 export PATH := $(GOPATH)/bin:$(PATH)
+export GO111MODULE=off
 
 build: LDFLAGS   += $(shell GOPATH=${GOPATH} src/build/ldflags.sh)
 build:
