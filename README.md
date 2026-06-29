@@ -4,6 +4,10 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/radondb/xenon)](https://goreportcard.com/report/github.com/radondb/xenon)
 [![codecov.io](https://codecov.io/gh/radondb/xenon/graphs/badge.svg)](https://codecov.io/gh/radondb/xenon/branch/master)
 
+> [!CAUTION]
+> **This repository has been archived.**
+> Its functionality is now supported by [**sealdb/neoha**](https://github.com/sealdb/neoha), which offers more advanced features and greater capabilities. Please refer to it instead.
+
 # Xenon
 
 ## Overview
